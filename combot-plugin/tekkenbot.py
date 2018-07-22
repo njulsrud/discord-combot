@@ -9,7 +9,7 @@ import lib.tekkenFinder as tekkenFinder   #contains functions for finding charac
 
 # Get token from local dir text file
 tokenFile = open("token.txt", 'r')
-token = tokenFile.read()
+token = tokenFile.readline()
 tokenFile.close()
 
 description = 'A Tekken 7 Frame Data Bot made by Hann.'
