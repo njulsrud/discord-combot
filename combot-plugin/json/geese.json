@@ -305,12 +305,6 @@
       "Hit frame": "-5",
       "on_ch": "KND",
       "Notes": "-"
-    },
-    "metadata": {
-      "ver": "0.4",
-      "game": "t7",
-      "character": "geese",
-      "type": "basic"
     }, {
       "Command": "in rage d/b+1+2 or FC+d/b+1+2",
       "Hit level": "h!",
