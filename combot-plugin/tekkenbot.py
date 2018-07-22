@@ -44,13 +44,17 @@ async def on_ready():
     print(bot.user.id)
     print('<---------------------------->')
     while True:
-        await bot.change_presence(game=discord.Game(name='YouLikeADamnFiddle'))
+        await bot.change_presence(game=discord.Game(name='Casuals: Level up games every Wednesday 4 to 10'))
+        await asyncio.sleep(30)
+        await bot.change_presence(game=discord.Game(name='Casuals: Plus on block???'))
+        await asyncio.sleep(30)
+        await bot.change_presence(game=discord.Game(name='Casuals: South Dale Monday 4 to 8'))
+        await asyncio.sleep(30)
+        await bot.change_presence(game=discord.Game(name='ProTip: Keo is free'))
         await asyncio.sleep(30)
         await bot.change_presence(game=discord.Game(name='.help for assistance'))
-        await asyncio.sleep(10000)
-        await bot.change_presence(game=discord.Game(name='Riri Toppu Tieru'))
-        await asyncio.sleep(30)
-        await bot.change_presence(game=discord.Game(name='TEKKEN 7'))
+        await asyncio.sleep(60)
+        await bot.change_presence(game=discord.Game(name='TEKKEN 8: Good cop/Bad Cop the return of Lei WuLong'))
         await asyncio.sleep(30)
 
 @bot.event
