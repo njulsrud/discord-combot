@@ -224,6 +224,13 @@
         "portrait": "https://i.imgur.com/tLdu5Nq.jpg"
     },
     {
+        "name": "noctis",
+        "local_webpage": "noctis.html",
+        "local_json": "noctis.json",
+        "online_webpage": "http://rbnorway.org/noctis-t7-frames",
+        "portrait": "https://i.imgur.com/gWAQSMc.jpg"
+    },
+    {
         "name": "paul",
         "local_webpage": "paul.html",
         "local_json": "paul.json",
