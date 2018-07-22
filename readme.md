@@ -2,5 +2,9 @@ I have taken this project on as it seems the original creator hanyaah who ran Tk
 
 - Planned Implementations
 1. add noctis
-2. remove case specifics
-3. update frame data
+2. add geese
+4. fix graphics not displaying anymore
+5. update frame data
+
+- Completed Implimentations
+3. remove case specific usernames(helps on mobile)
