@@ -272,7 +272,7 @@ async def get_SimilarMoves_Embed(user_Chara_Name, user_Chara_Move):
     return embed_SimilarMoves
 
 #Starts the bot
-bot.run(token)
+bot.run(token.strip())
 
 handlers = log.handlers[:]
 for hdlr in handlers:
