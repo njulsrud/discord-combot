@@ -30,7 +30,7 @@ combot_gagged_channels = combot_gagged_channels_File.read().splitlines()
 combot_gagged_channels_File.close()
 
 # TODO: YOU LEFT OFF HERE
-file = open('bot_settings.json', 'r+')
+#file = open('bot_settings.json', 'r+')
 # content = file.read()
 # file.close()
 # stuff = content.loads(content)
